@@ -19,6 +19,6 @@ Aplicación web para realizar sorteos de amigos secretos de manera aleatoria.
 - CSS
 - JavaScript
 
-## Instalación ⚙
+## Instalación 
 1. Clona este repositorio
 2. Abre el archivo `index.html` en tu navegador
