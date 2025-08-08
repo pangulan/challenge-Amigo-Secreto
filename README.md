@@ -7,7 +7,6 @@ Aplicación web para realizar sorteos de amigos secretos de manera aleatoria.
 - Validación de entradas vacías
 - Visualización de la lista de participantes
 - Sorteo aleatorio
-- Diseño responsive
 
 ## Cómo usar 
 1. Ingresa nombres en el campo de texto
